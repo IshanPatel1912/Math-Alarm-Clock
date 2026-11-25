@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Alarm</string>
+    <string name="alarm_channel_name">Alarm Alerts</string>
+    <string name="alarm_channel_description">Critical alarm ringtone and challenge notifications</string>
+</resources>

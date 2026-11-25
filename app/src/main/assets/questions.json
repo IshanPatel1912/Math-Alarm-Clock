@@ -1,0 +1,1832 @@
+﻿[
+    {
+        "id":  1,
+        "category":  "Brain Teaser",
+        "question":  "A bat and ball cost . The bat costs  more than the ball. How much is the ball?",
+        "answer":  5
+    },
+    {
+        "id":  2,
+        "category":  "Brain Teaser",
+        "question":  "If 5 cats catch 5 mice in 5 minutes, how many minutes do 100 cats take to catch 100 mice?",
+        "answer":  5
+    },
+    {
+        "id":  3,
+        "category":  "Brain Teaser",
+        "question":  "If 8 workers build 8 chairs in 8 hours, how many hours do 20 workers take to build 20 chairs?",
+        "answer":  8
+    },
+    {
+        "id":  4,
+        "category":  "Brain Teaser",
+        "question":  "A snail climbs 3m up a 10m wall each day and slips 2m each night. How many days to reach the top?",
+        "answer":  8
+    },
+    {
+        "id":  5,
+        "category":  "Brain Teaser",
+        "question":  "A snail climbs 4m up a 12m pole each day and slips 2m each night. How many days to reach the top?",
+        "answer":  5
+    },
+    {
+        "id":  6,
+        "category":  "Brain Teaser",
+        "question":  "A lily pad doubles daily. It covers a lake on day 48. On what day was the lake half covered?",
+        "answer":  47
+    },
+    {
+        "id":  7,
+        "category":  "Brain Teaser",
+        "question":  "A lily pad doubles daily. It covers a pond on day 30. On what day was it one-quarter covered?",
+        "answer":  28
+    },
+    {
+        "id":  8,
+        "category":  "Brain Teaser",
+        "question":  "A water lily doubles daily and fills a pool on day 24. On what day was it half full?",
+        "answer":  23
+    },
+    {
+        "id":  9,
+        "category":  "Brain Teaser",
+        "question":  "How many cuts are needed to divide a log into 8 equal pieces?",
+        "answer":  7
+    },
+    {
+        "id":  10,
+        "category":  "Brain Teaser",
+        "question":  "How many cuts are needed to divide a pipe into 12 equal pieces?",
+        "answer":  11
+    },
+    {
+        "id":  11,
+        "category":  "Brain Teaser",
+        "question":  "How many cuts are needed to divide a rope into 15 equal parts?",
+        "answer":  14
+    },
+    {
+        "id":  12,
+        "category":  "Brain Teaser",
+        "question":  "How many cuts are needed to divide a rod into 20 equal pieces?",
+        "answer":  19
+    },
+    {
+        "id":  13,
+        "category":  "Brain Teaser",
+        "question":  "You overtake the runner in 2nd place in a race. What place are you in now?",
+        "answer":  2
+    },
+    {
+        "id":  14,
+        "category":  "Brain Teaser",
+        "question":  "You overtake the runner in 3rd place in a race. What place are you in now?",
+        "answer":  3
+    },
+    {
+        "id":  15,
+        "category":  "Brain Teaser",
+        "question":  "If 5 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  10
+    },
+    {
+        "id":  16,
+        "category":  "Brain Teaser",
+        "question":  "If 6 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  15
+    },
+    {
+        "id":  17,
+        "category":  "Brain Teaser",
+        "question":  "If 7 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  21
+    },
+    {
+        "id":  18,
+        "category":  "Brain Teaser",
+        "question":  "If 8 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  28
+    },
+    {
+        "id":  19,
+        "category":  "Brain Teaser",
+        "question":  "If 9 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  36
+    },
+    {
+        "id":  20,
+        "category":  "Brain Teaser",
+        "question":  "If 10 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  45
+    },
+    {
+        "id":  21,
+        "category":  "Brain Teaser",
+        "question":  "If 11 people each shake hands with everyone else once, how many total handshakes occur?",
+        "answer":  55
+    },
+    {
+        "id":  22,
+        "category":  "Brain Teaser",
+        "question":  "How many months in a calendar year have at least 28 days?",
+        "answer":  12
+    },
+    {
+        "id":  23,
+        "category":  "Brain Teaser",
+        "question":  "A doctor gives you 3 pills to take one every 30 minutes. How many minutes until all are taken?",
+        "answer":  60
+    },
+    {
+        "id":  24,
+        "category":  "Brain Teaser",
+        "question":  "A doctor gives you 4 pills to take one every 20 minutes. How many minutes until all are taken?",
+        "answer":  60
+    },
+    {
+        "id":  25,
+        "category":  "Brain Teaser",
+        "question":  "A clock strikes 6 times in 5 seconds. How many seconds does it take to strike 12 times?",
+        "answer":  11
+    },
+    {
+        "id":  26,
+        "category":  "Brain Teaser",
+        "question":  "How many 2 cm cubes can fit completely inside a cube of side 6 cm?",
+        "answer":  27
+    },
+    {
+        "id":  27,
+        "category":  "Brain Teaser",
+        "question":  "How many 2 cm cubes can fit completely inside a cube of side 8 cm?",
+        "answer":  64
+    },
+    {
+        "id":  28,
+        "category":  "Brain Teaser",
+        "question":  "How many 3 cm cubes can fit completely inside a cube of side 12 cm?",
+        "answer":  64
+    },
+    {
+        "id":  29,
+        "category":  "Brain Teaser",
+        "question":  "In a dark drawer are 10 black and 10 white socks. What minimum draw guarantees a pair?",
+        "answer":  3
+    },
+    {
+        "id":  30,
+        "category":  "Brain Teaser",
+        "question":  "In a box are 8 red, 8 blue, and 8 green balls. What minimum draw guarantees 2 of same color?",
+        "answer":  4
+    },
+    {
+        "id":  31,
+        "category":  "Brain Teaser",
+        "question":  "A farmer has 17 sheep. All but 9 run away. How many sheep are left?",
+        "answer":  9
+    },
+    {
+        "id":  32,
+        "category":  "Brain Teaser",
+        "question":  "A shepherd has 25 sheep. All but 14 run away. How many sheep does he have left?",
+        "answer":  14
+    },
+    {
+        "id":  33,
+        "category":  "Brain Teaser",
+        "question":  "Divide 30 by 1/2 (half) and add 10. What is the result?",
+        "answer":  70
+    },
+    {
+        "id":  34,
+        "category":  "Brain Teaser",
+        "question":  "Divide 40 by 1/2 (half) and add 15. What is the result?",
+        "answer":  95
+    },
+    {
+        "id":  35,
+        "category":  "Brain Teaser",
+        "question":  "Divide 50 by 1/2 (half) and subtract 20. What is the result?",
+        "answer":  80
+    },
+    {
+        "id":  36,
+        "category":  "Brain Teaser",
+        "question":  "Divide 20 by 1/4 (one quarter) and add 15. What is the result?",
+        "answer":  95
+    },
+    {
+        "id":  37,
+        "category":  "Brain Teaser",
+        "question":  "Divide 15 by 1/3 (one third) and add 10. What is the result?",
+        "answer":  55
+    },
+    {
+        "id":  38,
+        "category":  "Brain Teaser",
+        "question":  "How many days are there in 7 weeks?",
+        "answer":  49
+    },
+    {
+        "id":  39,
+        "category":  "Brain Teaser",
+        "question":  "How many hours are there in 4.5 days?",
+        "answer":  108
+    },
+    {
+        "id":  40,
+        "category":  "Brain Teaser",
+        "question":  "How many minutes are there in 3.5 hours?",
+        "answer":  210
+    },
+    {
+        "id":  41,
+        "category":  "Brain Teaser",
+        "question":  "How many seconds are there in 6 minutes?",
+        "answer":  360
+    },
+    {
+        "id":  42,
+        "category":  "Brain Teaser",
+        "question":  "How many total faces does a standard cube have?",
+        "answer":  6
+    },
+    {
+        "id":  43,
+        "category":  "Brain Teaser",
+        "question":  "How many total edges does a standard cube have?",
+        "answer":  12
+    },
+    {
+        "id":  44,
+        "category":  "Brain Teaser",
+        "question":  "How many corners (vertices) does a standard cube have?",
+        "answer":  8
+    },
+    {
+        "id":  45,
+        "category":  "Brain Teaser",
+        "question":  "How many sides does a regular octagon have?",
+        "answer":  8
+    },
+    {
+        "id":  46,
+        "category":  "Brain Teaser",
+        "question":  "How many sides does a regular decagon have?",
+        "answer":  10
+    },
+    {
+        "id":  47,
+        "category":  "Brain Teaser",
+        "question":  "How many diagonals does a regular pentagon have in total?",
+        "answer":  5
+    },
+    {
+        "id":  48,
+        "category":  "Brain Teaser",
+        "question":  "How many diagonals does a regular hexagon have in total?",
+        "answer":  9
+    },
+    {
+        "id":  49,
+        "category":  "Brain Teaser",
+        "question":  "How many diagonals does a regular octagon have in total?",
+        "answer":  20
+    },
+    {
+        "id":  50,
+        "category":  "Brain Teaser",
+        "question":  "A clock strikes 1 at 1:00, 2 at 2:00, etc. How many total chimes from 1:00 to 5:00 inclusive?",
+        "answer":  15
+    },
+    {
+        "id":  51,
+        "category":  "Brain Teaser",
+        "question":  "A clock strikes 1 at 1:00, 2 at 2:00, etc. How many total chimes from 1:00 to 6:00 inclusive?",
+        "answer":  21
+    },
+    {
+        "id":  52,
+        "category":  "Brain Teaser",
+        "question":  "If 4 shirts dry in the sun in 20 minutes, how many minutes will 8 shirts take to dry together?",
+        "answer":  20
+    },
+    {
+        "id":  53,
+        "category":  "Brain Teaser",
+        "question":  "If today is Tuesday, what day of week in 16 days? (1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat, 7=Sun)",
+        "answer":  4
+    },
+    {
+        "id":  54,
+        "category":  "Brain Teaser",
+        "question":  "If today is Friday, what day of week in 15 days? (1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat, 7=Sun)",
+        "answer":  6
+    },
+    {
+        "id":  55,
+        "category":  "Brain Teaser",
+        "question":  "A book has 100 pages (1 to 100). How many times does the digit \u00277\u0027 appear in page numbers?",
+        "answer":  20
+    },
+    {
+        "id":  56,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 75² - 25²",
+        "answer":  5000
+    },
+    {
+        "id":  57,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 65² - 35²",
+        "answer":  3000
+    },
+    {
+        "id":  58,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 55² - 45²",
+        "answer":  1000
+    },
+    {
+        "id":  59,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 80² - 20²",
+        "answer":  6000
+    },
+    {
+        "id":  60,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 85² - 15²",
+        "answer":  7000
+    },
+    {
+        "id":  61,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 90² - 10²",
+        "answer":  8000
+    },
+    {
+        "id":  62,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 60² - 40²",
+        "answer":  2000
+    },
+    {
+        "id":  63,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 70² - 30²",
+        "answer":  4000
+    },
+    {
+        "id":  64,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 58² - 42²",
+        "answer":  1600
+    },
+    {
+        "id":  65,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 63² - 37²",
+        "answer":  2600
+    },
+    {
+        "id":  66,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 72² - 28²",
+        "answer":  4400
+    },
+    {
+        "id":  67,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 81² - 19²",
+        "answer":  6200
+    },
+    {
+        "id":  68,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 64² - 36²",
+        "answer":  2800
+    },
+    {
+        "id":  69,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 76² - 24²",
+        "answer":  5200
+    },
+    {
+        "id":  70,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 83² - 17²",
+        "answer":  6600
+    },
+    {
+        "id":  71,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 92² - 8²",
+        "answer":  8400
+    },
+    {
+        "id":  72,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 53² - 47²",
+        "answer":  600
+    },
+    {
+        "id":  73,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 56² - 44²",
+        "answer":  1200
+    },
+    {
+        "id":  74,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 59² - 41²",
+        "answer":  1800
+    },
+    {
+        "id":  75,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 67² - 33²",
+        "answer":  3400
+    },
+    {
+        "id":  76,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 74² - 26²",
+        "answer":  4800
+    },
+    {
+        "id":  77,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 78² - 22²",
+        "answer":  5600
+    },
+    {
+        "id":  78,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 82² - 18²",
+        "answer":  6400
+    },
+    {
+        "id":  79,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 86² - 14²",
+        "answer":  7200
+    },
+    {
+        "id":  80,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 88² - 12²",
+        "answer":  7600
+    },
+    {
+        "id":  81,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 21² - 20²",
+        "answer":  41
+    },
+    {
+        "id":  82,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 25² - 24²",
+        "answer":  49
+    },
+    {
+        "id":  83,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 31² - 30²",
+        "answer":  61
+    },
+    {
+        "id":  84,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 36² - 35²",
+        "answer":  71
+    },
+    {
+        "id":  85,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 41² - 40²",
+        "answer":  81
+    },
+    {
+        "id":  86,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 46² - 45²",
+        "answer":  91
+    },
+    {
+        "id":  87,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 51² - 50²",
+        "answer":  101
+    },
+    {
+        "id":  88,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 61² - 60²",
+        "answer":  121
+    },
+    {
+        "id":  89,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 71² - 70²",
+        "answer":  141
+    },
+    {
+        "id":  90,
+        "category":  "Shortcut",
+        "question":  "Use mental shortcut: 81² - 80²",
+        "answer":  161
+    },
+    {
+        "id":  91,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 23 × 11",
+        "answer":  253
+    },
+    {
+        "id":  92,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 34 × 11",
+        "answer":  374
+    },
+    {
+        "id":  93,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 42 × 11",
+        "answer":  462
+    },
+    {
+        "id":  94,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 53 × 11",
+        "answer":  583
+    },
+    {
+        "id":  95,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 62 × 11",
+        "answer":  682
+    },
+    {
+        "id":  96,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 71 × 11",
+        "answer":  781
+    },
+    {
+        "id":  97,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 26 × 11",
+        "answer":  286
+    },
+    {
+        "id":  98,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 45 × 11",
+        "answer":  495
+    },
+    {
+        "id":  99,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 54 × 11",
+        "answer":  594
+    },
+    {
+        "id":  100,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 36 × 11",
+        "answer":  396
+    },
+    {
+        "id":  101,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 16 × 25",
+        "answer":  400
+    },
+    {
+        "id":  102,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 24 × 25",
+        "answer":  600
+    },
+    {
+        "id":  103,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 28 × 25",
+        "answer":  700
+    },
+    {
+        "id":  104,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 32 × 25",
+        "answer":  800
+    },
+    {
+        "id":  105,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 36 × 25",
+        "answer":  900
+    },
+    {
+        "id":  106,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 44 × 25",
+        "answer":  1100
+    },
+    {
+        "id":  107,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 48 × 25",
+        "answer":  1200
+    },
+    {
+        "id":  108,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 52 × 25",
+        "answer":  1300
+    },
+    {
+        "id":  109,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 64 × 25",
+        "answer":  1600
+    },
+    {
+        "id":  110,
+        "category":  "Shortcut",
+        "question":  "Mental multiplication: 72 × 25",
+        "answer":  1800
+    },
+    {
+        "id":  111,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 15²",
+        "answer":  225
+    },
+    {
+        "id":  112,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 25²",
+        "answer":  625
+    },
+    {
+        "id":  113,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 35²",
+        "answer":  1225
+    },
+    {
+        "id":  114,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 45²",
+        "answer":  2025
+    },
+    {
+        "id":  115,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 55²",
+        "answer":  3025
+    },
+    {
+        "id":  116,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 65²",
+        "answer":  4225
+    },
+    {
+        "id":  117,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 75²",
+        "answer":  5625
+    },
+    {
+        "id":  118,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 85²",
+        "answer":  7225
+    },
+    {
+        "id":  119,
+        "category":  "Shortcut",
+        "question":  "Compute mental square: 95²",
+        "answer":  9025
+    },
+    {
+        "id":  120,
+        "category":  "Shortcut",
+        "question":  "What is 50% of 50% of 400?",
+        "answer":  100
+    },
+    {
+        "id":  121,
+        "category":  "Shortcut",
+        "question":  "What is 25% of 50% of 800?",
+        "answer":  100
+    },
+    {
+        "id":  122,
+        "category":  "Shortcut",
+        "question":  "What is 20% of 50% of 600?",
+        "answer":  60
+    },
+    {
+        "id":  123,
+        "category":  "Shortcut",
+        "question":  "What is 10% of 20% of 4000?",
+        "answer":  80
+    },
+    {
+        "id":  124,
+        "category":  "Shortcut",
+        "question":  "What is 50% of 40% of 250?",
+        "answer":  50
+    },
+    {
+        "id":  125,
+        "category":  "Shortcut",
+        "question":  "What is 20% of 25% of 1200?",
+        "answer":  60
+    },
+    {
+        "id":  126,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 4, 8, 16, 32, ?",
+        "answer":  64
+    },
+    {
+        "id":  127,
+        "category":  "Pattern",
+        "question":  "Find the next number: 3, 6, 12, 24, 48, ?",
+        "answer":  96
+    },
+    {
+        "id":  128,
+        "category":  "Pattern",
+        "question":  "Find the next number: 5, 10, 20, 40, 80, ?",
+        "answer":  160
+    },
+    {
+        "id":  129,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 4, 9, 16, 25, 36, ?",
+        "answer":  49
+    },
+    {
+        "id":  130,
+        "category":  "Pattern",
+        "question":  "Find the next number: 4, 9, 16, 25, 36, 49, ?",
+        "answer":  64
+    },
+    {
+        "id":  131,
+        "category":  "Pattern",
+        "question":  "Find the next number: 9, 16, 25, 36, 49, 64, ?",
+        "answer":  81
+    },
+    {
+        "id":  132,
+        "category":  "Pattern",
+        "question":  "Find the next number: 16, 25, 36, 49, 64, 81, ?",
+        "answer":  100
+    },
+    {
+        "id":  133,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 8, 27, 64, ?",
+        "answer":  125
+    },
+    {
+        "id":  134,
+        "category":  "Pattern",
+        "question":  "Find the next number: 8, 27, 64, 125, ?",
+        "answer":  216
+    },
+    {
+        "id":  135,
+        "category":  "Pattern",
+        "question":  "Find the next prime: 2, 3, 5, 7, 11, 13, ?",
+        "answer":  17
+    },
+    {
+        "id":  136,
+        "category":  "Pattern",
+        "question":  "Find the next prime: 11, 13, 17, 19, 23, ?",
+        "answer":  29
+    },
+    {
+        "id":  137,
+        "category":  "Pattern",
+        "question":  "Find the next prime: 17, 19, 23, 29, 31, ?",
+        "answer":  37
+    },
+    {
+        "id":  138,
+        "category":  "Pattern",
+        "question":  "Find the next prime: 29, 31, 37, 41, 43, ?",
+        "answer":  47
+    },
+    {
+        "id":  139,
+        "category":  "Pattern",
+        "question":  "Find the next prime: 41, 43, 47, 53, ?",
+        "answer":  59
+    },
+    {
+        "id":  140,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 6, 12, 20, 30, ?",
+        "answer":  42
+    },
+    {
+        "id":  141,
+        "category":  "Pattern",
+        "question":  "Find the next number: 6, 12, 20, 30, 42, ?",
+        "answer":  56
+    },
+    {
+        "id":  142,
+        "category":  "Pattern",
+        "question":  "Find the next number: 12, 20, 30, 42, 56, ?",
+        "answer":  72
+    },
+    {
+        "id":  143,
+        "category":  "Pattern",
+        "question":  "Find the next number: 20, 30, 42, 56, 72, ?",
+        "answer":  90
+    },
+    {
+        "id":  144,
+        "category":  "Pattern",
+        "question":  "Find the next triangular number: 1, 3, 6, 10, 15, ?",
+        "answer":  21
+    },
+    {
+        "id":  145,
+        "category":  "Pattern",
+        "question":  "Find the next triangular number: 3, 6, 10, 15, 21, ?",
+        "answer":  28
+    },
+    {
+        "id":  146,
+        "category":  "Pattern",
+        "question":  "Find the next triangular number: 6, 10, 15, 21, 28, ?",
+        "answer":  36
+    },
+    {
+        "id":  147,
+        "category":  "Pattern",
+        "question":  "Find the next Fibonacci number: 0, 1, 1, 2, 3, 5, 8, ?",
+        "answer":  13
+    },
+    {
+        "id":  148,
+        "category":  "Pattern",
+        "question":  "Find the next Fibonacci number: 1, 1, 2, 3, 5, 8, 13, ?",
+        "answer":  21
+    },
+    {
+        "id":  149,
+        "category":  "Pattern",
+        "question":  "Find the next Fibonacci number: 2, 3, 5, 8, 13, 21, ?",
+        "answer":  34
+    },
+    {
+        "id":  150,
+        "category":  "Pattern",
+        "question":  "Find the next Fibonacci number: 3, 5, 8, 13, 21, 34, ?",
+        "answer":  55
+    },
+    {
+        "id":  151,
+        "category":  "Pattern",
+        "question":  "Find the next Fibonacci number: 5, 8, 13, 21, 34, 55, ?",
+        "answer":  89
+    },
+    {
+        "id":  152,
+        "category":  "Pattern",
+        "question":  "Find the next number: 3, 5, 9, 17, 33, ?",
+        "answer":  65
+    },
+    {
+        "id":  153,
+        "category":  "Pattern",
+        "question":  "Find the next number: 5, 9, 17, 33, 65, ?",
+        "answer":  129
+    },
+    {
+        "id":  154,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 5, 10, 17, 26, ?",
+        "answer":  37
+    },
+    {
+        "id":  155,
+        "category":  "Pattern",
+        "question":  "Find the next number: 5, 10, 17, 26, 37, ?",
+        "answer":  50
+    },
+    {
+        "id":  156,
+        "category":  "Pattern",
+        "question":  "Find the next number: 0, 3, 8, 15, 24, ?",
+        "answer":  35
+    },
+    {
+        "id":  157,
+        "category":  "Pattern",
+        "question":  "Find the next number: 3, 8, 15, 24, 35, ?",
+        "answer":  48
+    },
+    {
+        "id":  158,
+        "category":  "Pattern",
+        "question":  "Find the next number: 8, 15, 24, 35, 48, ?",
+        "answer":  63
+    },
+    {
+        "id":  159,
+        "category":  "Pattern",
+        "question":  "Find the next number: 100, 96, 88, 72, ?",
+        "answer":  40
+    },
+    {
+        "id":  160,
+        "category":  "Pattern",
+        "question":  "Find the next number: 120, 115, 105, 90, 70, ?",
+        "answer":  45
+    },
+    {
+        "id":  161,
+        "category":  "Pattern",
+        "question":  "Find the next number: 81, 27, 9, 3, ?",
+        "answer":  1
+    },
+    {
+        "id":  162,
+        "category":  "Pattern",
+        "question":  "Find the next number: 128, 64, 32, 16, 8, ?",
+        "answer":  4
+    },
+    {
+        "id":  163,
+        "category":  "Pattern",
+        "question":  "Find the next number: 256, 128, 64, 32, ?",
+        "answer":  16
+    },
+    {
+        "id":  164,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 2, 4, 7, 11, 16, ?",
+        "answer":  22
+    },
+    {
+        "id":  165,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 4, 7, 11, 16, 22, ?",
+        "answer":  29
+    },
+    {
+        "id":  166,
+        "category":  "Pattern",
+        "question":  "Find the next number: 4, 7, 12, 19, 28, ?",
+        "answer":  39
+    },
+    {
+        "id":  167,
+        "category":  "Pattern",
+        "question":  "Find the next number: 7, 12, 19, 28, 39, ?",
+        "answer":  52
+    },
+    {
+        "id":  168,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 3, 7, 15, 31, ?",
+        "answer":  63
+    },
+    {
+        "id":  169,
+        "category":  "Pattern",
+        "question":  "Find the next number: 3, 7, 15, 31, 63, ?",
+        "answer":  127
+    },
+    {
+        "id":  170,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 5, 11, 23, 47, ?",
+        "answer":  95
+    },
+    {
+        "id":  171,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 4, 10, 22, 46, ?",
+        "answer":  94
+    },
+    {
+        "id":  172,
+        "category":  "Pattern",
+        "question":  "Find the next number: 3, 4, 7, 11, 18, 29, ?",
+        "answer":  47
+    },
+    {
+        "id":  173,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 5, 7, 12, 19, 31, ?",
+        "answer":  50
+    },
+    {
+        "id":  174,
+        "category":  "Pattern",
+        "question":  "Find the next number: 100, 90, 81, 73, 66, ?",
+        "answer":  60
+    },
+    {
+        "id":  175,
+        "category":  "Pattern",
+        "question":  "Find the next number: 4, 8, 14, 22, 32, ?",
+        "answer":  44
+    },
+    {
+        "id":  176,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 5, 13, 25, 41, ?",
+        "answer":  61
+    },
+    {
+        "id":  177,
+        "category":  "Pattern",
+        "question":  "Find the next number: 6, 11, 18, 27, 38, ?",
+        "answer":  51
+    },
+    {
+        "id":  178,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 7, 14, 23, 34, ?",
+        "answer":  47
+    },
+    {
+        "id":  179,
+        "category":  "Pattern",
+        "question":  "Find the next number: 7, 13, 21, 31, 43, ?",
+        "answer":  57
+    },
+    {
+        "id":  180,
+        "category":  "Pattern",
+        "question":  "Find the next number: 3, 10, 21, 36, 55, ?",
+        "answer":  78
+    },
+    {
+        "id":  181,
+        "category":  "Pattern",
+        "question":  "Find the next number: 50, 48, 44, 38, 30, ?",
+        "answer":  20
+    },
+    {
+        "id":  182,
+        "category":  "Pattern",
+        "question":  "Find the next number: 64, 32, 16, 8, 4, ?",
+        "answer":  2
+    },
+    {
+        "id":  183,
+        "category":  "Pattern",
+        "question":  "Find the next number: 243, 81, 27, 9, ?",
+        "answer":  3
+    },
+    {
+        "id":  184,
+        "category":  "Pattern",
+        "question":  "Find the next number: 1, 6, 15, 28, 45, ?",
+        "answer":  66
+    },
+    {
+        "id":  185,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 9, 28, 65, ?",
+        "answer":  126
+    },
+    {
+        "id":  186,
+        "category":  "Pattern",
+        "question":  "Find the next number: 0, 7, 26, 63, ?",
+        "answer":  124
+    },
+    {
+        "id":  187,
+        "category":  "Pattern",
+        "question":  "Find the next number: 2, 12, 36, 80, ?",
+        "answer":  150
+    },
+    {
+        "id":  188,
+        "category":  "Pattern",
+        "question":  "Find the next number: 5, 8, 13, 20, 29, ?",
+        "answer":  40
+    },
+    {
+        "id":  189,
+        "category":  "Pattern",
+        "question":  "Find the next number: 11, 22, 33, 44, 55, ?",
+        "answer":  66
+    },
+    {
+        "id":  190,
+        "category":  "Pattern",
+        "question":  "Find the next number: 10, 15, 23, 34, 48, ?",
+        "answer":  65
+    },
+    {
+        "id":  191,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 2^10 (1024)?",
+        "answer":  4
+    },
+    {
+        "id":  192,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 2^12?",
+        "answer":  6
+    },
+    {
+        "id":  193,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 3^4 (81)?",
+        "answer":  1
+    },
+    {
+        "id":  194,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 3^8?",
+        "answer":  1
+    },
+    {
+        "id":  195,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 7^4?",
+        "answer":  1
+    },
+    {
+        "id":  196,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 7^8?",
+        "answer":  1
+    },
+    {
+        "id":  197,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 9^7?",
+        "answer":  9
+    },
+    {
+        "id":  198,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 9^8?",
+        "answer":  1
+    },
+    {
+        "id":  199,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 4^9?",
+        "answer":  4
+    },
+    {
+        "id":  200,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 4^10?",
+        "answer":  6
+    },
+    {
+        "id":  201,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 5^23?",
+        "answer":  5
+    },
+    {
+        "id":  202,
+        "category":  "Number Sense",
+        "question":  "What is the units (last) digit of 6^15?",
+        "answer":  6
+    },
+    {
+        "id":  203,
+        "category":  "Number Sense",
+        "question":  "What is the remainder when 125 is divided by 9?",
+        "answer":  8
+    },
+    {
+        "id":  204,
+        "category":  "Number Sense",
+        "question":  "What is the remainder when 248 is divided by 9?",
+        "answer":  5
+    },
+    {
+        "id":  205,
+        "category":  "Number Sense",
+        "question":  "What is the remainder when 518 is divided by 9?",
+        "answer":  5
+    },
+    {
+        "id":  206,
+        "category":  "Number Sense",
+        "question":  "What is the remainder when 734 is divided by 9?",
+        "answer":  5
+    },
+    {
+        "id":  207,
+        "category":  "Number Sense",
+        "question":  "What is the smallest prime number greater than 50?",
+        "answer":  53
+    },
+    {
+        "id":  208,
+        "category":  "Number Sense",
+        "question":  "What is the smallest prime number greater than 60?",
+        "answer":  61
+    },
+    {
+        "id":  209,
+        "category":  "Number Sense",
+        "question":  "What is the smallest prime number greater than 70?",
+        "answer":  71
+    },
+    {
+        "id":  210,
+        "category":  "Number Sense",
+        "question":  "What is the smallest prime number greater than 80?",
+        "answer":  83
+    },
+    {
+        "id":  211,
+        "category":  "Number Sense",
+        "question":  "What is the smallest prime number greater than 90?",
+        "answer":  97
+    },
+    {
+        "id":  212,
+        "category":  "Number Sense",
+        "question":  "What is the largest prime number less than 50?",
+        "answer":  47
+    },
+    {
+        "id":  213,
+        "category":  "Number Sense",
+        "question":  "What is the largest prime number less than 70?",
+        "answer":  67
+    },
+    {
+        "id":  214,
+        "category":  "Number Sense",
+        "question":  "What is the largest prime number less than 100?",
+        "answer":  97
+    },
+    {
+        "id":  215,
+        "category":  "Number Sense",
+        "question":  "What is the only even prime number?",
+        "answer":  2
+    },
+    {
+        "id":  216,
+        "category":  "Number Sense",
+        "question":  "How many prime numbers are between 1 and 10?",
+        "answer":  4
+    },
+    {
+        "id":  217,
+        "category":  "Number Sense",
+        "question":  "How many prime numbers are between 10 and 20?",
+        "answer":  4
+    },
+    {
+        "id":  218,
+        "category":  "Number Sense",
+        "question":  "How many prime numbers are between 20 and 30?",
+        "answer":  2
+    },
+    {
+        "id":  219,
+        "category":  "Number Sense",
+        "question":  "How many prime numbers are between 30 and 40?",
+        "answer":  2
+    },
+    {
+        "id":  220,
+        "category":  "Number Sense",
+        "question":  "What is the sum of all prime numbers less than 10?",
+        "answer":  17
+    },
+    {
+        "id":  221,
+        "category":  "Number Sense",
+        "question":  "What is the sum of the digits of 2^7 (128)?",
+        "answer":  11
+    },
+    {
+        "id":  222,
+        "category":  "Number Sense",
+        "question":  "What is the sum of the digits of 2^8 (256)?",
+        "answer":  13
+    },
+    {
+        "id":  223,
+        "category":  "Number Sense",
+        "question":  "What is the sum of the digits of 2^9 (512)?",
+        "answer":  8
+    },
+    {
+        "id":  224,
+        "category":  "Number Sense",
+        "question":  "What is the sum of the digits of 2^10 (1024)?",
+        "answer":  7
+    },
+    {
+        "id":  225,
+        "category":  "Number Sense",
+        "question":  "What is the greatest common divisor (GCD) of 36 and 48?",
+        "answer":  12
+    },
+    {
+        "id":  226,
+        "category":  "Number Sense",
+        "question":  "What is the greatest common divisor (GCD) of 42 and 56?",
+        "answer":  14
+    },
+    {
+        "id":  227,
+        "category":  "Number Sense",
+        "question":  "What is the greatest common divisor (GCD) of 60 and 84?",
+        "answer":  12
+    },
+    {
+        "id":  228,
+        "category":  "Number Sense",
+        "question":  "What is the greatest common divisor (GCD) of 54 and 72?",
+        "answer":  18
+    },
+    {
+        "id":  229,
+        "category":  "Number Sense",
+        "question":  "What is the greatest common divisor (GCD) of 45 and 75?",
+        "answer":  15
+    },
+    {
+        "id":  230,
+        "category":  "Number Sense",
+        "question":  "What is the least common multiple (LCM) of 6 and 8?",
+        "answer":  24
+    },
+    {
+        "id":  231,
+        "category":  "Number Sense",
+        "question":  "What is the least common multiple (LCM) of 8 and 12?",
+        "answer":  24
+    },
+    {
+        "id":  232,
+        "category":  "Number Sense",
+        "question":  "What is the least common multiple (LCM) of 9 and 12?",
+        "answer":  36
+    },
+    {
+        "id":  233,
+        "category":  "Number Sense",
+        "question":  "What is the least common multiple (LCM) of 12 and 15?",
+        "answer":  60
+    },
+    {
+        "id":  234,
+        "category":  "Number Sense",
+        "question":  "What is the least common multiple (LCM) of 15 and 20?",
+        "answer":  60
+    },
+    {
+        "id":  235,
+        "category":  "Number Sense",
+        "question":  "What is the value of 5! (5 factorial)?",
+        "answer":  120
+    },
+    {
+        "id":  236,
+        "category":  "Number Sense",
+        "question":  "What is the value of 4! (4 factorial)?",
+        "answer":  24
+    },
+    {
+        "id":  237,
+        "category":  "Number Sense",
+        "question":  "What is 6! divided by 5!?",
+        "answer":  6
+    },
+    {
+        "id":  238,
+        "category":  "Number Sense",
+        "question":  "What is 7! divided by 6!?",
+        "answer":  7
+    },
+    {
+        "id":  239,
+        "category":  "Number Sense",
+        "question":  "What is 8! divided by (6! × 2!)?",
+        "answer":  28
+    },
+    {
+        "id":  240,
+        "category":  "Number Sense",
+        "question":  "What is 9! divided by (7! × 2!)?",
+        "answer":  36
+    },
+    {
+        "id":  241,
+        "category":  "Number Sense",
+        "question":  "What is 10! divided by (8! × 2!)?",
+        "answer":  45
+    },
+    {
+        "id":  242,
+        "category":  "Number Sense",
+        "question":  "What is 5! divided by 3!?",
+        "answer":  20
+    },
+    {
+        "id":  243,
+        "category":  "Number Sense",
+        "question":  "What is 6! divided by 4!?",
+        "answer":  30
+    },
+    {
+        "id":  244,
+        "category":  "Number Sense",
+        "question":  "What is 7! divided by 5!?",
+        "answer":  42
+    },
+    {
+        "id":  245,
+        "category":  "Number Sense",
+        "question":  "What is 8! divided by 6!?",
+        "answer":  56
+    },
+    {
+        "id":  246,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 20 and x - y = 4, what is x?",
+        "answer":  12
+    },
+    {
+        "id":  247,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 20 and x - y = 4, what is y?",
+        "answer":  8
+    },
+    {
+        "id":  248,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 26 and x - y = 6, what is x?",
+        "answer":  16
+    },
+    {
+        "id":  249,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 26 and x - y = 6, what is y?",
+        "answer":  10
+    },
+    {
+        "id":  250,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 30 and x - y = 8, what is x?",
+        "answer":  19
+    },
+    {
+        "id":  251,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 30 and x - y = 8, what is y?",
+        "answer":  11
+    },
+    {
+        "id":  252,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 34 and x - y = 10, what is x?",
+        "answer":  22
+    },
+    {
+        "id":  253,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 34 and x - y = 10, what is y?",
+        "answer":  12
+    },
+    {
+        "id":  254,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 40 and x - y = 12, what is x?",
+        "answer":  26
+    },
+    {
+        "id":  255,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 40 and x - y = 12, what is y?",
+        "answer":  14
+    },
+    {
+        "id":  256,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 46 and x - y = 14, what is x?",
+        "answer":  30
+    },
+    {
+        "id":  257,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 46 and x - y = 14, what is y?",
+        "answer":  16
+    },
+    {
+        "id":  258,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 50 and x - y = 16, what is x?",
+        "answer":  33
+    },
+    {
+        "id":  259,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 50 and x - y = 16, what is y?",
+        "answer":  17
+    },
+    {
+        "id":  260,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 56 and x - y = 18, what is x?",
+        "answer":  37
+    },
+    {
+        "id":  261,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 56 and x - y = 18, what is y?",
+        "answer":  19
+    },
+    {
+        "id":  262,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 60 and x - y = 20, what is x?",
+        "answer":  40
+    },
+    {
+        "id":  263,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 60 and x - y = 20, what is y?",
+        "answer":  20
+    },
+    {
+        "id":  264,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 64 and x - y = 22, what is x?",
+        "answer":  43
+    },
+    {
+        "id":  265,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 64 and x - y = 22, what is y?",
+        "answer":  21
+    },
+    {
+        "id":  266,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 70 and x - y = 24, what is x?",
+        "answer":  47
+    },
+    {
+        "id":  267,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 70 and x - y = 24, what is y?",
+        "answer":  23
+    },
+    {
+        "id":  268,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 80 and x - y = 26, what is x?",
+        "answer":  53
+    },
+    {
+        "id":  269,
+        "category":  "Mental Algebra",
+        "question":  "If x + y = 80 and x - y = 26, what is y?",
+        "answer":  27
+    },
+    {
+        "id":  270,
+        "category":  "Mental Algebra",
+        "question":  "If 2x + 10 = 50, what is x?",
+        "answer":  20
+    },
+    {
+        "id":  271,
+        "category":  "Mental Algebra",
+        "question":  "If 3x - 15 = 45, what is x?",
+        "answer":  20
+    },
+    {
+        "id":  272,
+        "category":  "Mental Algebra",
+        "question":  "If 4x + 8 = 48, what is x?",
+        "answer":  10
+    },
+    {
+        "id":  273,
+        "category":  "Mental Algebra",
+        "question":  "If 5x - 20 = 55, what is x?",
+        "answer":  15
+    },
+    {
+        "id":  274,
+        "category":  "Mental Algebra",
+        "question":  "If 6x + 18 = 72, what is x?",
+        "answer":  9
+    },
+    {
+        "id":  275,
+        "category":  "Mental Algebra",
+        "question":  "If 7x - 21 = 49, what is x?",
+        "answer":  10
+    },
+    {
+        "id":  276,
+        "category":  "Mental Algebra",
+        "question":  "If x/3 + 7 = 15, what is x?",
+        "answer":  24
+    },
+    {
+        "id":  277,
+        "category":  "Mental Algebra",
+        "question":  "If x/4 - 2 = 8, what is x?",
+        "answer":  40
+    },
+    {
+        "id":  278,
+        "category":  "Mental Algebra",
+        "question":  "If x/5 + 5 = 13, what is x?",
+        "answer":  40
+    },
+    {
+        "id":  279,
+        "category":  "Mental Algebra",
+        "question":  "If x/6 - 3 = 7, what is x?",
+        "answer":  60
+    },
+    {
+        "id":  280,
+        "category":  "Mental Algebra",
+        "question":  "If 2x + 6 = 30, what is the value of x + 3?",
+        "answer":  15
+    },
+    {
+        "id":  281,
+        "category":  "Mental Algebra",
+        "question":  "If 3x + 9 = 45, what is the value of x + 3?",
+        "answer":  15
+    },
+    {
+        "id":  282,
+        "category":  "Mental Algebra",
+        "question":  "If 4x + 12 = 56, what is the value of x + 3?",
+        "answer":  14
+    },
+    {
+        "id":  283,
+        "category":  "Mental Algebra",
+        "question":  "If 5x + 15 = 75, what is the value of x + 3?",
+        "answer":  15
+    },
+    {
+        "id":  284,
+        "category":  "Mental Algebra",
+        "question":  "What number doubled equals half of 64?",
+        "answer":  16
+    },
+    {
+        "id":  285,
+        "category":  "Mental Algebra",
+        "question":  "What number tripled equals half of 90?",
+        "answer":  15
+    },
+    {
+        "id":  286,
+        "category":  "Mental Algebra",
+        "question":  "What number quadrupled equals half of 128?",
+        "answer":  16
+    },
+    {
+        "id":  287,
+        "category":  "Mental Algebra",
+        "question":  "A number plus its half equals 36. What is the number?",
+        "answer":  24
+    },
+    {
+        "id":  288,
+        "category":  "Mental Algebra",
+        "question":  "A number plus its half equals 45. What is the number?",
+        "answer":  30
+    },
+    {
+        "id":  289,
+        "category":  "Mental Algebra",
+        "question":  "A number plus its half equals 60. What is the number?",
+        "answer":  40
+    },
+    {
+        "id":  290,
+        "category":  "Mental Algebra",
+        "question":  "A number plus its double plus its triple equals 48. What is the number?",
+        "answer":  8
+    },
+    {
+        "id":  291,
+        "category":  "Mental Algebra",
+        "question":  "A number plus its double plus its triple equals 72. What is the number?",
+        "answer":  12
+    },
+    {
+        "id":  292,
+        "category":  "Mental Algebra",
+        "question":  "A number plus its double plus its triple equals 96. What is the number?",
+        "answer":  16
+    },
+    {
+        "id":  293,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 3 consecutive integers is 45. What is the middle integer?",
+        "answer":  15
+    },
+    {
+        "id":  294,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 3 consecutive integers is 72. What is the middle integer?",
+        "answer":  24
+    },
+    {
+        "id":  295,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 3 consecutive integers is 99. What is the smallest integer?",
+        "answer":  32
+    },
+    {
+        "id":  296,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 3 consecutive integers is 63. What is the largest integer?",
+        "answer":  22
+    },
+    {
+        "id":  297,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 5 consecutive integers is 100. What is the middle integer?",
+        "answer":  20
+    },
+    {
+        "id":  298,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 5 consecutive integers is 75. What is the middle integer?",
+        "answer":  15
+    },
+    {
+        "id":  299,
+        "category":  "Mental Algebra",
+        "question":  "The sum of 5 consecutive integers is 150. What is the smallest integer?",
+        "answer":  28
+    },
+    {
+        "id":  300,
+        "category":  "Mental Algebra",
+        "question":  "The average of 14, 22, and 24 is?",
+        "answer":  20
+    },
+    {
+        "id":  301,
+        "category":  "Mental Algebra",
+        "question":  "The average of 25, 35, and 60 is?",
+        "answer":  40
+    },
+    {
+        "id":  302,
+        "category":  "Mental Algebra",
+        "question":  "The average of 30, 40, 50, and 60 is?",
+        "answer":  45
+    },
+    {
+        "id":  303,
+        "category":  "Mental Algebra",
+        "question":  "The average of 10, 20, 30, 40, and 50 is?",
+        "answer":  30
+    },
+    {
+        "id":  304,
+        "category":  "Mental Algebra",
+        "question":  "The average of four numbers is 25. Three numbers are 20, 25, 30. What is the fourth?",
+        "answer":  25
+    },
+    {
+        "id":  305,
+        "category":  "Mental Algebra",
+        "question":  "The average of three numbers is 20. Two numbers are 15 and 22. What is the third?",
+        "answer":  23
+    }
+]

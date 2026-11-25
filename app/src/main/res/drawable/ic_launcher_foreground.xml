@@ -1,0 +1,135 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Overall Safe Zone Group (scaled and centered within 72dp adaptive icon safe area) -->
+    <group
+        android:scaleX="0.92"
+        android:scaleY="0.92"
+        android:translateX="4.32"
+        android:translateY="4.32">
+
+        <!-- Alarm Feet (Bottom pegs) -->
+        <path
+            android:fillColor="#475569"
+            android:pathData="M34,80 L29,88 C28.5,88.8 27.5,89.2 26.6,88.7 C25.7,88.2 25.4,87.1 25.9,86.2 L31,77 Z" />
+        <path
+            android:fillColor="#475569"
+            android:pathData="M74,80 L79,88 C79.5,88.8 80.5,89.2 81.4,88.7 C82.3,88.2 82.6,87.1 82.1,86.2 L77,77 Z" />
+
+        <!-- Twin Bells (Top) -->
+        <!-- Left Bell -->
+        <path
+            android:pathData="M27,24 C31,21 38,24 41,29 L35,35 C32,30 26,30 23,32 Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:startX="23"
+                    android:startY="21"
+                    android:endX="41"
+                    android:endY="35"
+                    android:type="linear">
+                    <item android:color="#FF3B71FE" android:offset="0.0" />
+                    <item android:color="#FF00E5FF" android:offset="1.0" />
+                </gradient>
+            </aapt:attr>
+        </path>
+        <!-- Right Bell -->
+        <path
+            android:pathData="M81,24 C77,21 70,24 67,29 L73,35 C76,30 82,30 85,32 Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:startX="67"
+                    android:startY="21"
+                    android:endX="85"
+                    android:endY="35"
+                    android:type="linear">
+                    <item android:color="#FF00E5FF" android:offset="0.0" />
+                    <item android:color="#FF3B71FE" android:offset="1.0" />
+                </gradient>
+            </aapt:attr>
+        </path>
+
+        <!-- Top Ring / Hammer Button -->
+        <path
+            android:strokeColor="#64748B"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:pathData="M48,22 C48,18.7 50.7,16 54,16 C57.3,16 60,18.7 60,22" />
+
+        <!-- Main Clock Outer Shadow / Ring -->
+        <path
+            android:pathData="M54,23 C36.88,23 23,36.88 23,54 C23,71.12 36.88,85 54,85 C71.12,85 85,71.12 85,54 C85,36.88 71.12,23 54,23 Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:startX="23"
+                    android:startY="23"
+                    android:endX="85"
+                    android:endY="85"
+                    android:type="linear">
+                    <item android:color="#FF252D3D" android:offset="0.0" />
+                    <item android:color="#FF131720" android:offset="1.0" />
+                </gradient>
+            </aapt:attr>
+        </path>
+
+        <!-- Glowing Neon Border Ring -->
+        <path
+            android:strokeWidth="2.5"
+            android:pathData="M54,24.5 C37.71,24.5 24.5,37.71 24.5,54 C24.5,70.29 37.71,83.5 54,83.5 C70.29,83.5 83.5,70.29 83.5,54 C83.5,37.71 70.29,24.5 54,24.5 Z">
+            <aapt:attr name="android:strokeColor">
+                <gradient
+                    android:startX="24.5"
+                    android:startY="24.5"
+                    android:endX="83.5"
+                    android:endY="83.5"
+                    android:type="linear">
+                    <item android:color="#FF3B71FE" android:offset="0.0" />
+                    <item android:color="#FF00E5FF" android:offset="1.0" />
+                </gradient>
+            </aapt:attr>
+        </path>
+
+        <!-- Minimal Hour Tick Marks at 12, 3, 6, 9 -->
+        <path android:fillColor="#475569" android:pathData="M53,28 h2 v3 h-2 z" />
+        <path android:fillColor="#475569" android:pathData="M77,53 h3 v2 h-3 z" />
+        <path android:fillColor="#475569" android:pathData="M53,77 h2 v3 h-2 z" />
+        <path android:fillColor="#475569" android:pathData="M28,53 h3 v2 h-3 z" />
+
+        <!-- Iconic Mathematical Symbol inside Clock Dial -->
+        <!-- Elegant Radical √ symbol in neon cyan with division/plus -->
+        <path
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="3.2"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M38,55 L43,62 L50,42 L70,42" />
+
+        <!-- Math Plus symbol inside radical -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.4"
+            android:strokeLineCap="round"
+            android:pathData="M56,56 L64,56 M60,52 L60,60" />
+
+        <!-- Clock Center Pivot Dot -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M54,54 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+
+        <!-- Modern Clock Hands pointing at 6:30 wake time -->
+        <path
+            android:strokeColor="#3B71FE"
+            android:strokeWidth="2.8"
+            android:strokeLineCap="round"
+            android:pathData="M54,54 L54,70" />
+        <path
+            android:strokeColor="#60A5FA"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M54,54 L62,49" />
+
+    </group>
+</vector>
